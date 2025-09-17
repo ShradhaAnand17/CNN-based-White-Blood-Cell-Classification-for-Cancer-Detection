@@ -3,6 +3,10 @@
 This repository implements a **Convolutional Neural Network (CNN)** for classifying **normal and malignant white blood cells (WBCs)**.  
 The framework demonstrates potential for **leukemia detection** and **automated diagnostic support** by analyzing WBC morphology from image datasets.
 
+## Published paper and Citation
+- Link: https://ieeexplore.ieee.org/document/10817028
+- Citation: Shivandappa, T. N. Gundawar, S. A. Bandikatte, S. A. Mulimani, R. D. Umesh and D. Kori, "Image-Based WBC Analysis: A Machine Learning Approach for Cancer Detection," 2024 8th International Conference on Computational System and Information Technology for Sustainable Solutions (CSITSS), Bengaluru, India, 2024, pp. 1-6, doi: 10.1109/CSITSS64042.2024.10817028. 
+
 ## 🧑‍💻 Methodology
 1. **Data Preprocessing**  
    - Images resized to 256x256  
